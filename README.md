@@ -35,7 +35,7 @@ pip install tk
 ```
 ## License
 
-Dishit
+Yash shah
 
 **Free Software, Hell Yeah!**
 
